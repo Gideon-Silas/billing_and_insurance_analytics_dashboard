@@ -251,7 +251,7 @@ Being transparent about the data matters, so these are the caveats behind the nu
 
 ---
 
-**To explore the interactive version:** download `Hospital_Patients_Dataset.xlsx`, open the **Dashboard** sheet in Microsoft Excel and click the slicers. (GitHub only previews the file as static, so Excel is needed for the slicers.)
+**To explore the interactive version:** download `Dataset.xlsx`, open the **Dashboard** sheet in Microsoft Excel and click the slicers. (GitHub only previews the file as static, so Excel is needed for the slicers.)
 
 ---
 
