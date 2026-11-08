@@ -7,7 +7,7 @@
 ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-0B6E99)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-![Dashboard](Dashboard_Image.jpg)
+![Dashboard](Dashboard_Image.png)
 
 ---
 
@@ -40,7 +40,6 @@
 - [Additional Insights](#-additional-insights-beyond-the-brief)
 - [Recommendations](#-recommendations)
 - [Data Limitations](#-data-limitations--assumptions)
-- [Repository Structure](#-repository-structure)
 - [About the Author](#-about-the-author)
 
 ---
