@@ -261,8 +261,8 @@ Being transparent about the data matters, so these are the caveats behind the nu
 
 I enjoy turning messy business data into decisions people can act on, especially where finance and data meet.
 
-- LinkedIn: [https://www.linkedin.com/in/gideonsilas]
-- Email: [gideonmondaysilas@gmail.com]
-- More projects: [https://wwww.github.com/Gideon-Silas]
+- [LinkedIn](https://www.linkedin.com/in/gideonsilas)
+- [Email](gideonmondaysilas@gmail.com)
+- [More projects](https://wwww.github.com/Gideon-Silas)
 
 *If you found this project useful, feel free to star the repository.*
