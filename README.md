@@ -257,7 +257,7 @@ Being transparent about the data matters, so these are the caveats behind the nu
 
 ## About the Author
 
-**Gideon Silas** is a Finance graduate and Data Science student building practical analytics skills with Excel, Python and SQL through the **3MTT Nigeria** and **TechCrushHQ** programmes.
+**Gideon Silas** is a Finance graduate, specializing at the intersection of corporate finance and modern data analytics. He is learning and building robust technical toolkits that allows him to transform raw enterprise data into strategic financial insights.
 
 I enjoy turning messy business data into decisions people can act on, especially where finance and data meet.
 
